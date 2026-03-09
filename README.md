@@ -35,11 +35,13 @@ Through this project, I analyze different datasets and solve practical business 
 | Case Study #8 | Fresh Segments | [View Solution](./Case%20Study%20%238_%20Fresh%20Segments)                   |
 
 ---
+## Question and Solution
+
+If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/senthooran23/).
 
 ## 🛠 Tools Used
 
-* SQL (MySQL / PostgreSQL)
-* Git
+* SQL (MySQL)
 * GitHub
 * Data Analysis Techniques
 
