@@ -1,4 +1,4 @@
-This repository contains my solutions for the 8 case studies from the **#8WeekSQLChallenge**.
+This repository contains my solutions for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/).
 
 Through this project, I explore real-world business scenarios using SQL and demonstrate my ability to solve analytical problems using structured queries, data exploration, and logical thinking.
 
