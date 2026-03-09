@@ -12,14 +12,16 @@ A special thanks to **Data With Danny** for creating these insightful and engagi
 
 You can find the solutions for each case study below. Click on the links to view the detailed solutions and analysis.
 
-- Case Study #1: [Danny's Diner](case_studies/week1_dannys_diner)
-- Case Study #2: [Pizza Runner](case_studies/week2_pizza_runner)
-- Case Study #3: [Foodie-Fi](case_studies/week3_foodie_fi)
-- Case Study #4: [Data Bank](case_studies/week4_data_bank)
-- Case Study #5: [Data Mart](case_studies/week5_data_mart)
-- Case Study #6: [Clique Bait](case_studies/week6_clique_bait)
-- Case Study #7: [Balanced Tree](case_studies/week7_balanced_tree)
-- Case Study #8: [Fresh Segments](case_studies/week8_fresh_segments)
+
+
+- Case Study #1: [Danny's Diner](Case%20Study%20%231%20-%20Danny's%20Diner)
+- Case Study #2: [Pizza Runner](Case%20Study%20%232%20-%20Pizza%20Runner)
+- Case Study #3: [Foodie-Fi](Case%20Study%20%233%20-%20Foodie-Fi)
+- Case Study #4: [Data Bank](Case%20Study%20%234%20-%20Data%20Bank)
+- Case Study #5: [Data Mart](Case%20Study%20%235%20-%20Data%20Mart)
+- Case Study #6: [Clique Bait](Case%20Study%20%236%20-%20Clique%20Bait)
+- Case Study #7: [Balanced Tree Clothing Co](Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co)
+- Case Study #8: [Fresh Segments](Case%20Study%20%238%20-%20Fresh%20Segments)
 
 ---
 
