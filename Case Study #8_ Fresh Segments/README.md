@@ -57,11 +57,6 @@ Danny has asked for your assistance to analyse aggregated metrics for an example
 
 ***
 
-## Question and Solution
-
-Please join me in executing the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/jmnwogTsUE8hGqkZv9H7E8/17). It would be great to work together on the questions!
-
-If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/).
 
 ## 🧼 A. Data Exploration and Cleansing
 
