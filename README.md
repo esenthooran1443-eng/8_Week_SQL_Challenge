@@ -41,4 +41,6 @@ If you have any questions or would like to discuss SQL concepts or approaches us
 Thank you for visiting this repository and being part of the data learning community.
 
 Best regards,
+
+
 **Senthooran**
