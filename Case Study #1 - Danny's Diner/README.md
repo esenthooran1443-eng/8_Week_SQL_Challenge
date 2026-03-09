@@ -109,10 +109,9 @@ GROUP BY customer_id, product_name;
 ````
 
 #### Steps:
-- Create a Common Table Expression (CTE) named `ordered_sales_cte`. Within the CTE, create a new column `rank` and calculate the row number using **DENSE_RANK()** window function. The **PARTITION BY** clause divides the data by `customer_id`, and the **ORDER BY** clause orders the rows within each partition by `order_date`.
-- In the outer query, select the appropriate columns and apply a filter in the **WHERE** clause to retrieve only the rows where the rank column equals 1, which represents the first row within each `customer_id` partition.
-- Use the GROUP BY clause to group the result by `customer_id` and `product_name`.
-
+- Create a Common Table Expression (CTE) named `ordered_sales`. Within the CTE, create a new column `rank_num` using the **DENSE_RANK()** window function. The **PARTITION BY** clause divides the data by `customer_id`, and the **ORDER BY** clause sorts the rows within each partition based on `order_date`.
+- In the outer query, select the relevant columns and apply a filter in the **WHERE** clause to retrieve only the rows where `rank_num = 1`, which represents the first purchase date for each `customer_id`.
+- Finally, use the **GROUP BY** clause to group the results by `customer_id` and `product_name`.
 #### Answer:
 | customer_id | product_name | 
 | ----------- | ----------- |
