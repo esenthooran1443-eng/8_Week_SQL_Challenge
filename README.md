@@ -23,6 +23,11 @@ You can find the solutions for each case study below. Click on the links to view
 - Case Study #7: [Balanced Tree Clothing Co](Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co)
 - Case Study #8: [Fresh Segments](Case%20Study%20%238%20-%20Fresh%20Segments)
 
+
+## Question and Solution
+
+If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/senthooran23/).
+
 ---
 
 ## ⚠️ Important Note Regarding My Solutions
